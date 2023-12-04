@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_level_01",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
