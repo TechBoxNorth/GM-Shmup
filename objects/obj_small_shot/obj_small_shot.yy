@@ -4,7 +4,6 @@
   "name": "obj_small_shot",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -13,8 +12,8 @@
     "path": "folders/Objects/Projectiles/Shots.yy",
   },
   "parentObjectId": {
-    "name": "obj_projectile_parent",
-    "path": "objects/obj_projectile_parent/obj_projectile_parent.yy",
+    "name": "obj_player_projectile_parent",
+    "path": "objects/obj_player_projectile_parent/obj_player_projectile_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

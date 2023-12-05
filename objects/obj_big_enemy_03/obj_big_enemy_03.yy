@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_projectile_parent",
+  "name": "obj_big_enemy_03",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Projectiles",
-    "path": "folders/Objects/Projectiles.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,13 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
-  "spriteMaskId": null,
+  "spriteId": {
+    "name": "spr_big_enemy_03_down",
+    "path": "sprites/spr_big_enemy_03_down/spr_big_enemy_03_down.yy",
+  },
+  "spriteMaskId": {
+    "name": "spr_big_enemy_03_mask",
+    "path": "sprites/spr_big_enemy_03_mask/spr_big_enemy_03_mask.yy",
+  },
   "visible": true,
 }
