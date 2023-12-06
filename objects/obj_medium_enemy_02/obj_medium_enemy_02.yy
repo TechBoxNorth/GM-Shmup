@@ -32,6 +32,9 @@
     "name": "spr_medium_enemy_2_down",
     "path": "sprites/spr_medium_enemy_2_down/spr_medium_enemy_2_down.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_medium_enemy_2_mask",
+    "path": "sprites/spr_medium_enemy_2_mask/spr_medium_enemy_2_mask.yy",
+  },
   "visible": true,
 }

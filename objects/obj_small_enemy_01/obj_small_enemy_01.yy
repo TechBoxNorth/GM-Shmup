@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_medium_enemy_01",
+  "name": "obj_small_enemy_01",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,12 +29,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_medium_enemy_01_down",
-    "path": "sprites/spr_medium_enemy_01_down/spr_medium_enemy_01_down.yy",
+    "name": "spr_small_enemy_01_down",
+    "path": "sprites/spr_small_enemy_01_down/spr_small_enemy_01_down.yy",
   },
   "spriteMaskId": {
-    "name": "spr_medium_enemy_01_mask",
-    "path": "sprites/spr_medium_enemy_01_mask/spr_medium_enemy_01_mask.yy",
+    "name": "spr_small_enemy_01_mask",
+    "path": "sprites/spr_small_enemy_01_mask/spr_small_enemy_01_mask.yy",
   },
   "visible": true,
 }
