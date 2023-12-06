@@ -6,12 +6,12 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Planes",
+    "path": "folders/Objects/Enemies/Planes.yy",
   },
   "parentObjectId": {
-    "name": "obj_enemy_parent",
-    "path": "objects/obj_enemy_parent/obj_enemy_parent.yy",
+    "name": "obj_enemy_plane_parent",
+    "path": "objects/obj_enemy_plane_parent/obj_enemy_plane_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

@@ -29,7 +29,7 @@
   "origin": 4,
   "parent": {
     "name": "Big enemy 3",
-    "path": "folders/Sprites/Enemies/Big enemy 3.yy",
+    "path": "folders/Sprites/Enemies/Planes/Big enemy 3.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

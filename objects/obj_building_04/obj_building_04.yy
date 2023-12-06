@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemy_parent",
+  "name": "obj_building_04",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Buildings",
+    "path": "folders/Objects/Buildings.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_building_parent",
+    "path": "objects/obj_building_parent/obj_building_parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_building_03",
+    "path": "sprites/spr_building_03/spr_building_03.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

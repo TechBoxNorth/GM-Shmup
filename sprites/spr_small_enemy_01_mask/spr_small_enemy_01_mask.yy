@@ -7,7 +7,7 @@
   "bbox_right": 45,
   "bbox_top": 1,
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 0,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "Small enemy 1",
-    "path": "folders/Sprites/Enemies/Small enemy 1.yy",
+    "path": "folders/Sprites/Enemies/Planes/Small enemy 1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

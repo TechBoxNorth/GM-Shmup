@@ -29,7 +29,7 @@
   "origin": 4,
   "parent": {
     "name": "Medium enemy 1",
-    "path": "folders/Sprites/Enemies/Medium enemy 1.yy",
+    "path": "folders/Sprites/Enemies/Planes/Medium enemy 1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

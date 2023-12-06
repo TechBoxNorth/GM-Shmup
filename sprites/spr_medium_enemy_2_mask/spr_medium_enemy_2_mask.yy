@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "Medium enemy 2",
-    "path": "folders/Sprites/Enemies/Medium enemy 2.yy",
+    "path": "folders/Sprites/Enemies/Planes/Medium enemy 2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
