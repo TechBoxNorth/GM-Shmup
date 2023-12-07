@@ -1,0 +1,21 @@
+/// @description
+instance_destroy();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
