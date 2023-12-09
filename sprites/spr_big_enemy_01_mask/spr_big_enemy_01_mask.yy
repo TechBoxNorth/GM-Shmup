@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_big_enemy_01_mask",
-  "bbox_bottom": 62,
+  "bbox_bottom": 57,
   "bbox_left": 12,
   "bbox_right": 67,
   "bbox_top": 14,

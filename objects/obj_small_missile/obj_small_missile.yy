@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_small_missile",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +12,8 @@
     "path": "folders/Objects/Projectiles/Missiles.yy",
   },
   "parentObjectId": {
-    "name": "obj_player_projectile_parent",
-    "path": "objects/obj_player_projectile_parent/obj_player_projectile_parent.yy",
+    "name": "obj_projectile_parent",
+    "path": "objects/obj_projectile_parent/obj_projectile_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
