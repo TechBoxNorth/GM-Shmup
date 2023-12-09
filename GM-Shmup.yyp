@@ -210,6 +210,7 @@
     {"id":{"name":"spr_small_enemy_01_mask","path":"sprites/spr_small_enemy_01_mask/spr_small_enemy_01_mask.yy",},},
     {"id":{"name":"snd_vehicle_flight_idle_2_WAV","path":"sounds/snd_vehicle_flight_idle_2_WAV/snd_vehicle_flight_idle_2_WAV.yy",},},
     {"id":{"name":"spr_building_02","path":"sprites/spr_building_02/spr_building_02.yy",},},
+    {"id":{"name":"sh_flash","path":"shaders/sh_flash/sh_flash.yy",},},
     {"id":{"name":"spr_small_enemy_02_down","path":"sprites/spr_small_enemy_02_down/spr_small_enemy_02_down.yy",},},
     {"id":{"name":"spr_train_engine_right","path":"sprites/spr_train_engine_right/spr_train_engine_right.yy",},},
     {"id":{"name":"spr_ui_font_text_en_8x885","path":"sprites/spr_ui_font_text_en_8x885/spr_ui_font_text_en_8x885.yy",},},
